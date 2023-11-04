@@ -1,4 +1,5 @@
-import matplotlib.pyplot as plt
+#pip install matplotlib
+import matplotlib.pyplot as plt 
 import math
 
 F = 2000  
